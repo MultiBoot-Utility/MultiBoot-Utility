@@ -26,12 +26,12 @@ USB/HDD lerde;
 
 ## Değişiklik Listesi
 
-(v1.2)
-1 Program ilk açılış sonrasındaki açılışlarda versiyon değişikliği olmadığı müddetçe direk açılması sağlandı.
+# (v1.2)
+ 1 Program ilk açılış sonrasındaki açılışlarda versiyon değişikliği olmadığı müddetçe direk açılması sağlandı.
 
-(v1.1)
-1 Seçilen sürücüde Windows yüklü ise işlemlerin yapılması engellendi.
-2 Grub4Dos için işlem tamamlandıktan sonra gelen hata giderildi.
+# (v1.1)
+ 1 Seçilen sürücüde Windows yüklü ise işlemlerin yapılması engellendi.
+ 2 Grub4Dos için işlem tamamlandıktan sonra gelen hata giderildi.
 
-(v1.0)
-1 Programın ilk sürümü yayınlandı.
+# (v1.0)
+ 1 Programın ilk sürümü yayınlandı.
