@@ -1,6 +1,7 @@
 # MultiBoot Utility Tr-En
 
-https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/MultiBoot_Utility_1_Tr.PNG
+
+![alt MultiBoot Utility](https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/MultiBoot_Utility_1_Tr.PNG)
 
 ## Kullanım Amaçları
 
