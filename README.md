@@ -24,7 +24,7 @@
 * UEFI de Secure Boot aktif iken boot sorunu yaşanması durumunda kullanılan mevcut MultiBoot sisteminin UEFI boot yöntemini Microsoft tarafından imzalanmış orijinal efi dosyaları ile değiştirir ve kullanıma hazır hale getirir.
 * Program üzerinden direk Sanal Disk Yönetim programı, QEMU Test programı ve Bootice programını açarak bütün testleri yapabilirsiniz.
 
-## Değişiklik Listesi
+## Yapılan Değişiklikler
 ```
 (v1.2)
  #  Program ilk açılış sonrasındaki açılışlarda versiyon değişikliği olmadığı müddetçe direk açılması sağlandı.
