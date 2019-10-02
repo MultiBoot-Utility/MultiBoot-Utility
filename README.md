@@ -5,7 +5,7 @@
 
 ## Detaylı Bilgi
 
-[www.tnctr.com] (https://www.tnctr.com/topic/642741-multiboot-utility-tr-en-v12/)
+[www.tnctr.com](https://www.tnctr.com/topic/642741-multiboot-utility-tr-en-v12/)
 
 ## Kullanım Amaçları
 
