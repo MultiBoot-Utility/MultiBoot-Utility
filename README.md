@@ -9,7 +9,7 @@
 
 ## Kullanım Amaçları
 
-USB/HDD lerde;
+#### USB/HDD lerde;
 * Grub2 kurulumu yapar. Boot olacak şekilde hazır duruma getirir.
 	- ÖNEMLİ * Boot dizinini olarak istediğiniz isimdeki bir klasörü seçebilirsiniz.
 * Kullanılan mevcut MultiBoot sistemlerde Grub2 versiyon güncellemesi yapar.

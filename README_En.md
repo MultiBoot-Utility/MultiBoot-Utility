@@ -9,7 +9,7 @@
 
 ## Intended Use
 
-USB/HDD;
+#### USB/HDD;
 * Grub2 installs. Boot to be ready.
 	- IMPORTANT * You can select a folder with the desired name as the boot directory.
 * Grub2 version update on the existing MultiBoot systems used.
