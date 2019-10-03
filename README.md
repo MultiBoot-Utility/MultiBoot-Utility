@@ -26,13 +26,16 @@
 
 ## Yapılan Değişiklikler
 ```
+(v1.3)
+ # Windows kurulu sürücüde işlem yapılması seçimli hale getirildi.
+ 
 (v1.2)
- #  Program ilk açılış sonrasındaki açılışlarda versiyon değişikliği olmadığı müddetçe direk açılması sağlandı.
+ # Program ilk açılış sonrasındaki açılışlarda versiyon değişikliği olmadığı müddetçe direk açılması sağlandı.
 
 (v1.1)
- #  Seçilen sürücüde Windows yüklü ise işlemlerin yapılması engellendi.
- #  Grub4Dos için işlem tamamlandıktan sonra gelen hata giderildi.
+ # Seçilen sürücüde Windows yüklü ise işlemlerin yapılması engellendi.
+ # Grub4Dos için işlem tamamlandıktan sonra gelen hata giderildi.
 
 (v1.0)
- #  Programın ilk sürümü yayınlandı.
+ # Programın ilk sürümü yayınlandı.
  ```

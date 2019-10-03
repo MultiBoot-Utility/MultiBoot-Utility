@@ -26,13 +26,16 @@
 
 ## Change Log
 ```
+(v1.3)
+ # Operation on the Windows installed drive is now optional.
+
 (v1.2)
- #  The program was opened directly after the first opening unless there was a change of version.
+ # The program was opened directly after the first opening unless there was a change of version.
 
 (v1.1)
- #  Operations are blocked if Windows is installed on the selected drive.
- #  Fixed the error that came after Grub4Dos was completed.
+ # Operations are blocked if Windows is installed on the selected drive.
+ # Fixed the error that came after Grub4Dos was completed.
 
 (v1.0)
- #  The first version of the program is released.
+ # The first version of the program is released.
  ```
