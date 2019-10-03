@@ -3,16 +3,16 @@
 
 ![alt MultiBoot Utility](https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/Goruntuler/MultiBoot_Utility_1_Tr.PNG)
 
-## Detaylı Bilgi
-
-[www.tnctr.com](https://www.tnctr.com/topic/642741-multiboot-utility-tr-en-v12/)
-
 ## Download
 #### Turkish
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20Tr_v1.3.exe/download)
 
 #### English
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20En_v1.3.exe/download)
+
+## Detaylı Bilgi
+
+[www.tnctr.com](https://www.tnctr.com/topic/642741-multiboot-utility-tr-en-v12/)
 
 ## Kullanım Amaçları
 
