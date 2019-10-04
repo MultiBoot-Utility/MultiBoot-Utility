@@ -25,7 +25,7 @@
 * Grub2 version update on the existing MultiBoot systems used.
 	- Grub2 files embedded in the program, if you want, you can update with your own downloaded Grub2 files.
 	- You can update Legacy, Efi32 and Efi64 separately.
-* Creates g2ldr, core.img, bootia32.efi and bootx64.efi files for Grub2 v2.04 and v 2.05 and copies them to their respective locations on your system.
+* Creates g2ldr, core.img, bootia32.efi and bootx64.efi files for Grub2 v2.04 and v2.05 and copies them to their respective locations on your system.
 * Grub2 File Manager installs. Makes it ready to use.
 * Downloads current Grub4Dos files to the existing MultiBoot system used and makes them ready to use.
 	- Internet connection is required as it downloads the current files from the internet.

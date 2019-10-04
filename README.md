@@ -24,7 +24,7 @@
 * Kullanılan mevcut MultiBoot sistemlerde Grub2 versiyon güncellemesi yapar.
 	- İster program üzerinde gömülü Grub2 dosyalarla, isterseniz kendi indirmiş olduğunuz Grub2 dosyaları ile güncelleme yapabilirsiniz.
 	- Güncelleme işlemini Legacy, Efi32 ve Efi64 ayrı ayrı seçmeli olarak yapabilirsiniz.
-* Grub2 v2.04 ve v 2.05 için g2ldr, core.img, bootia32.efi ve bootx64.efi dosyalarını oluşturarak sisteminizdeki ilgili yerlere kopyalar.
+* Grub2 v2.04 ve v2.05 için g2ldr, core.img, bootia32.efi ve bootx64.efi dosyalarını oluşturarak sisteminizdeki ilgili yerlere kopyalar.
 * Grub2 Dosya Yönetici kurulumu yapar. Kullanıma hazır hale getirir.
 * Kullanılan mevcut MultiBoot sistemine güncel Grub4Dos dosyalarını indirir ve kullanmaya hazır hale getirir.
 	- Güncel dosyaları internetten indirdiği için internet bağlantısı gerekmektedir.
