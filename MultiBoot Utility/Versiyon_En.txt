@@ -1,8 +1,8 @@
 1.4.0.0
 
 MultiBoot Utility v1.4
-* Deneme 1
-* Deneme 2
-* Deneme 3
-* Deneme 4
+* Faruk 1
+* Gökçe 2
+* TNCTR 3
+* By_FaRuK 4
 * Deneme 5
