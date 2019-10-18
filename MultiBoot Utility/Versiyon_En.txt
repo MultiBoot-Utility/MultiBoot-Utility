@@ -1,5 +1,8 @@
 1.4.0.0
 
-Yapılan Değişiklikler
+MultiBoot Utility v1.4
 * Deneme 1
 * Deneme 2
+* Deneme 3
+* Deneme 4
+* Deneme 5
