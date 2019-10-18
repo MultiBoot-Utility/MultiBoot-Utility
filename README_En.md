@@ -27,6 +27,8 @@
 	- You can update Legacy, Efi32 and Efi64 separately.
 * Creates g2ldr, core.img, bootia32.efi and bootx64.efi files for Grub2 v2.04 and v2.05 and copies them to their respective locations on your system.
 * Grub2 File Manager installs. Makes it ready to use.
+* Clovder downloads the latest version of Bootloader and integrates it into the existing MultiBoot system used to make it ready for use.
+* rEFInd downloads the latest version of Bootloader and integrates it with the existing MultiBoot system used to make it ready for use.
 * Downloads current Grub4Dos files to the existing MultiBoot system used and makes them ready to use.
 	- Internet connection is required as it downloads the current files from the internet.
 	- If no Grub4Dos is present in the system, it installs under the grub directory by default.
