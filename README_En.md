@@ -28,7 +28,7 @@
 	- You can update Legacy, Efi32 and Efi64 separately.
 * Creates g2ldr, core.img, bootia32.efi and bootx64.efi files for Grub2 v2.04 and v2.05 and copies them to their respective locations on your system.
 * Grub2 File Manager installs. Makes it ready to use.
-* Clovder downloads the latest version of Bootloader and integrates it into the existing MultiBoot system used to make it ready for use.
+* Clover downloads the latest version of Bootloader and integrates it into the existing MultiBoot system used to make it ready for use.
 	- Internet connection is required as it downloads the current files from the internet.
 	- If the system has Clover Bootloader files, it will update as the most current version.
 	- If there is no Clover Bootloader in the system, it installs the latest version and makes it ready for use.
