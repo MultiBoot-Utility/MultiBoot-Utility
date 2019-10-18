@@ -1,1 +1,5 @@
 1.4.0.0
+
+Yapılan Değişiklikler
+* Deneme 1
+* Deneme 2
