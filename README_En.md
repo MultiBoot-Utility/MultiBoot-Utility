@@ -36,6 +36,9 @@
 
 ## Change Log
 ```
+(v1.4)
+ # Clover and rEFInd Bootloader added.
+ 
 (v1.3)
  # Operation on the Windows installed drive is now optional.
 

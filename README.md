@@ -35,6 +35,9 @@
 
 ## Yapılan Değişiklikler
 ```
+(v1.4)
+ # Clover ve rEFInd Bootloader eklendi.
+ 
 (v1.3)
  # Windows kurulu sürücüde işlem yapılması seçimli hale getirildi.
  
