@@ -29,7 +29,13 @@
 * Grub2 v2.04 ve v2.05 için g2ldr, core.img, bootia32.efi ve bootx64.efi dosyalarını oluşturarak sisteminizdeki ilgili yerlere kopyalar.
 * Grub2 Dosya Yönetici kurulumu yapar. Kullanıma hazır hale getirir.
 * Clovder Bootloader'ın en güncel versiyonunu indirir ve kullanılan mevcut MultiBoot sistemine entegre ederek kullanmaya hazır hale getirir.
+	- Güncel dosyaları internetten indirdiği için internet bağlantısı gerekmektedir.
+	- Sistemde Clover Bootloader dosyaları varsa en güncel versiyon olarak günceller.
+	- Sistemde Clover Bootloader yoksa en güncel versiyonu kurar ve kullanıma hazır hale getirir.
 * rEFInd Bootloader'ın en güncel versiyonunu indirir ve kullanılan mevcut MultiBoot sistemine entegre ederek kullanmaya hazır hale getirir.
+	- Güncel dosyaları internetten indirdiği için internet bağlantısı gerekmektedir.
+	- Sistemde rEFInd Bootloader dosyaları varsa en güncel versiyon olarak günceller.
+	- Sistemde rEFInd Bootloader yoksa en güncel versiyonu kurar ve kullanıma hazır hale getirir.
 * Kullanılan mevcut MultiBoot sistemine güncel Grub4Dos dosyalarını indirir ve kullanmaya hazır hale getirir.
 	- Güncel dosyaları internetten indirdiği için internet bağlantısı gerekmektedir.
 	- Sistemde Grub4Dos hiç yoksa default olarak grub dizininin altına kurar.
