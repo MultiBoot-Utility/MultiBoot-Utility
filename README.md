@@ -10,6 +10,8 @@
 #### English (v1.4)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20En.exe/download)
 
+[Eski Versiyonlar](https://github.com/MultiBoot-Utility/MultiBoot-Utility/tree/master/MultiBoot%20Utility/Old)
+
 ## Detaylı Bilgi
 
 [www.tnctr.com](https://www.tnctr.com/topic/642741-multiboot-utility-v10/)

@@ -10,6 +10,7 @@
 #### Turkish (v1.4)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20Tr.exe/download)
 
+[Old Version](https://github.com/MultiBoot-Utility/MultiBoot-Utility/tree/master/MultiBoot%20Utility/Old)
 
 ## More Information
 
