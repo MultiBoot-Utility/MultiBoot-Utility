@@ -1,0 +1,519 @@
+				GNU GENERAL PUBLIC LICENSE
+                   Version 3, 29 June 2007
+Copyright (C) 2007 Free Software Foundation, Inc. https://fsf.org/ Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+                        Preamble
+The GNU General Public License is a free, copyleft license for software and other kinds of works.
+
+The licenses for most software and other practical works are designed to take away your freedom to share and change the works. By contrast, the GNU General Public License is intended to guarantee your freedom to share and change all versions of a program--to make sure it remains free software for all its users. We, the Free Software Foundation, use the GNU General Public License for most of our software; it applies also to any other work released this way by its authors. You can apply it to your programs, too.
+
+When we speak of free software, we are referring to freedom, not price. Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
+
+To protect your rights, we need to prevent others from denying you these rights or asking you to surrender the rights. Therefore, you have certain responsibilities if you distribute copies of the software, or if you modify it: responsibilities to respect the freedom of others.
+
+For example, if you distribute copies of such a program, whether gratis or for a fee, you must pass on to the recipients the same freedoms that you received. You must make sure that they, too, receive or can get the source code. And you must show them these terms so they know their rights.
+
+Developers that use the GNU GPL protect your rights with two steps: (1) assert copyright on the software, and (2) offer you this License giving you legal permission to copy, distribute and/or modify it.
+
+For the developers' and authors' protection, the GPL clearly explains that there is no warranty for this free software. For both users' and authors' sake, the GPL requires that modified versions be marked as changed, so that their problems will not be attributed erroneously to authors of previous versions.
+
+Some devices are designed to deny users access to install or run modified versions of the software inside them, although the manufacturer can do so. This is fundamentally incompatible with the aim of protecting users' freedom to change the software. The systematic pattern of such abuse occurs in the area of products for individuals to use, which is precisely where it is most unacceptable. Therefore, we have designed this version of the GPL to prohibit the practice for those products. If such problems arise substantially in other domains, we stand ready to extend this provision to those domains in future versions of the GPL, as needed to protect the freedom of users.
+
+Finally, every program is threatened constantly by software patents. States should not allow patents to restrict development and use of software on general-purpose computers, but in those that do, we wish to avoid the special danger that patents applied to a free program could make it effectively proprietary. To prevent this, the GPL assures that patents cannot be used to render the program non-free.
+
+The precise terms and conditions for copying, distribution and modification follow.
+
+                   TERMS AND CONDITIONS
+Definitions.
+"This License" refers to version 3 of the GNU General Public License.
+
+"Copyright" also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+
+"The Program" refers to any copyrightable work licensed under this License. Each licensee is addressed as "you". "Licensees" and "recipients" may be individuals or organizations.
+
+To "modify" a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than the making of an exact copy. The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.
+
+A "covered work" means either the unmodified Program or a work based on the Program.
+
+To "propagate" a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
+
+To "convey" a work means any kind of propagation that enables other parties to make or receive copies. Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
+
+An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
+
+Source Code.
+The "source code" for a work means the preferred form of the work for making modifications to it. "Object code" means any non-source form of a work.
+
+A "Standard Interface" means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.
+
+The "System Libraries" of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source code form. A "Major Component", in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object code interpreter used to run it.
+
+The "Corresponding Source" for a work in object code form means all the source code needed to generate, install, and (for an executable work) run the object code and to modify the work, including scripts to control those activities. However, it does not include the work's System Libraries, or general-purpose tools or generally available free programs which are used unmodified in performing those activities but which are not part of the work. For example, Corresponding Source includes interface definition files associated with source files for the work, and the source code for shared libraries and dynamically linked subprograms that the work is specifically designed to require, such as by intimate data communication or control flow between those subprograms and other parts of the work.
+
+The Corresponding Source need not include anything that users can regenerate automatically from other parts of the Corresponding Source.
+
+The Corresponding Source for a work in source code form is that same work.
+
+Basic Permissions.
+All rights granted under this License are granted for the term of copyright on the Program, and are irrevocable provided the stated conditions are met. This License explicitly affirms your unlimited permission to run the unmodified Program. The output from running a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your rights of fair use or other equivalent, as provided by copyright law.
+
+You may make, run and propagate covered works that you do not convey, without conditions so long as your license otherwise remains in force. You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control copyright. Those thus making or running the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.
+
+Conveying under any other circumstances is permitted solely under the conditions stated below. Sublicensing is not allowed; section 10 makes it unnecessary.
+
+Protecting Users' Legal Rights From Anti-Circumvention Law.
+No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under article 11 of the WIPO copyright treaty adopted on 20 December 1996, or similar laws prohibiting or restricting circumvention of such measures.
+
+When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit operation or modification of the work as a means of enforcing, against the work's users, your or third parties' legal rights to forbid circumvention of technological measures.
+
+Conveying Verbatim Copies.
+You may convey verbatim copies of the Program's source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Program.
+
+You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee.
+
+Conveying Modified Source Versions.
+You may convey a work based on the Program, or the modifications to produce it from the Program, in the form of source code under the terms of section 4, provided that you also meet all of these conditions:
+
+a) The work must carry prominent notices stating that you modified
+it, and giving a relevant date.
+
+b) The work must carry prominent notices stating that it is
+released under this License and any conditions added under section
+7.  This requirement modifies the requirement in section 4 to
+"keep intact all notices".
+
+c) You must license the entire work, as a whole, under this
+License to anyone who comes into possession of a copy.  This
+License will therefore apply, along with any applicable section 7
+additional terms, to the whole of the work, and all its parts,
+regardless of how they are packaged.  This License gives no
+permission to license the work in any other way, but it does not
+invalidate such permission if you have separately received it.
+
+d) If the work has interactive user interfaces, each must display
+Appropriate Legal Notices; however, if the Program has interactive
+interfaces that do not display Appropriate Legal Notices, your
+work need not make them do so.
+A compilation of a covered work with other separate and independent works, which are not by their nature extensions of the covered work, and which are not combined with it such as to form a larger program, in or on a volume of a storage or distribution medium, is called an "aggregate" if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.
+
+Conveying Non-Source Forms.
+You may convey a covered work in object code form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source under the terms of this License, in one of these ways:
+
+a) Convey the object code in, or embodied in, a physical product
+(including a physical distribution medium), accompanied by the
+Corresponding Source fixed on a durable physical medium
+customarily used for software interchange.
+
+b) Convey the object code in, or embodied in, a physical product
+(including a physical distribution medium), accompanied by a
+written offer, valid for at least three years and valid for as
+long as you offer spare parts or customer support for that product
+model, to give anyone who possesses the object code either (1) a
+copy of the Corresponding Source for all the software in the
+product that is covered by this License, on a durable physical
+medium customarily used for software interchange, for a price no
+more than your reasonable cost of physically performing this
+conveying of source, or (2) access to copy the
+Corresponding Source from a network server at no charge.
+
+c) Convey individual copies of the object code with a copy of the
+written offer to provide the Corresponding Source.  This
+alternative is allowed only occasionally and noncommercially, and
+only if you received the object code with such an offer, in accord
+with subsection 6b.
+
+d) Convey the object code by offering access from a designated
+place (gratis or for a charge), and offer equivalent access to the
+Corresponding Source in the same way through the same place at no
+further charge.  You need not require recipients to copy the
+Corresponding Source along with the object code.  If the place to
+copy the object code is a network server, the Corresponding Source
+may be on a different server (operated by you or a third party)
+that supports equivalent copying facilities, provided you maintain
+clear directions next to the object code saying where to find the
+Corresponding Source.  Regardless of what server hosts the
+Corresponding Source, you remain obligated to ensure that it is
+available for as long as needed to satisfy these requirements.
+
+e) Convey the object code using peer-to-peer transmission, provided
+you inform other peers where the object code and Corresponding
+Source of the work are being offered to the general public at no
+charge under subsection 6d.
+A separable portion of the object code, whose source code is excluded from the Corresponding Source as a System Library, need not be included in conveying the object code work.
+
+A "User Product" is either (1) a "consumer product", which means any tangible personal property which is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. For a particular product received by a particular user, "normally used" refers to a typical or common use of that class of product, regardless of the status of the particular user or of the way in which the particular user actually uses, or expects or is expected to use, the product. A product is a consumer product regardless of whether the product has substantial commercial, industrial or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+
+"Installation Information" for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified object code is in no case prevented or interfered with solely because modification has been made.
+
+If you convey an object code work under this section in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Corresponding Source conveyed under this section must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified object code on the User Product (for example, the work has been installed in ROM).
+
+The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.
+
+Corresponding Source conveyed, and Installation Information provided, in accord with this section must be in a format that is publicly documented (and with an implementation available to the public in source code form), and must require no special password or key for unpacking, reading or copying.
+
+Additional Terms.
+"Additional permissions" are terms that supplement the terms of this License by making exceptions from one or more of its conditions. Additional permissions that are applicable to the entire Program shall be treated as though they were included in this License, to the extent that they are valid under applicable law. If additional permissions apply only to part of the Program, that part may be used separately under those permissions, but the entire Program remains governed by this License without regard to the additional permissions.
+
+When you convey a copy of a covered work, you may at your option remove any additional permissions from that copy, or from any part of it. (Additional permissions may be written to require their own removal in certain cases when you modify the work.) You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.
+
+Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
+
+a) Disclaiming warranty or limiting liability differently from the
+terms of sections 15 and 16 of this License; or
+
+b) Requiring preservation of specified reasonable legal notices or
+author attributions in that material or in the Appropriate Legal
+Notices displayed by works containing it; or
+
+c) Prohibiting misrepresentation of the origin of that material, or
+requiring that modified versions of such material be marked in
+reasonable ways as different from the original version; or
+
+d) Limiting the use for publicity purposes of names of licensors or
+authors of the material; or
+
+e) Declining to grant rights under trademark law for use of some
+trade names, trademarks, or service marks; or
+
+f) Requiring indemnification of licensors and authors of that
+material by anyone who conveys the material (or modified versions of
+it) with contractual assumptions of liability to the recipient, for
+any liability that these contractual assumptions directly impose on
+those licensors and authors.
+All other non-permissive additional terms are considered "further restrictions" within the meaning of section 10. If the Program as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is a further restriction, you may remove that term. If a license document contains a further restriction but permits relicensing or conveying under this License, you may add to a covered work material governed by the terms of that license document, provided that the further restriction does not survive such relicensing or conveying.
+
+If you add terms to a covered work in accord with this section, you must place, in the relevant source files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.
+
+Additional terms, permissive or non-permissive, may be stated in the form of a separately written license, or stated as exceptions; the above requirements apply either way.
+
+Termination.
+You may not propagate or modify a covered work except as expressly provided under this License. Any attempt otherwise to propagate or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 11).
+
+However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
+
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
+
+Termination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.
+
+Acceptance Not Required for Having Copies.
+You are not required to accept this License in order to receive or run a copy of the Program. Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance. However, nothing other than this License grants you permission to propagate or modify any covered work. These actions infringe copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.
+
+Automatic Licensing of Downstream Recipients.
+Each time you convey a covered work, the recipient automatically receives a license from the original licensors, to run, modify and propagate that work, subject to this License. You are not responsible for enforcing compliance by third parties with this License.
+
+An "entity transaction" is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
+
+You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Program or any portion of it.
+
+Patents.
+A "contributor" is a copyright holder who authorizes use under this License of the Program or a work on which the Program is based. The work thus licensed is called the contributor's "contributor version".
+
+A contributor's "essential patent claims" are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or selling its contributor version, but do not include claims that would be infringed only as a consequence of further modification of the contributor version. For purposes of this definition, "control" includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
+
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import and otherwise run, modify and propagate the contents of its contributor version.
+
+In the following three paragraphs, a "patent license" is any express agreement or commitment, however denominated, not to enforce a patent (such as an express permission to practice a patent or covenant not to sue for patent infringement). To "grant" such a patent license to a party means to make such an agreement or commitment not to enforce a patent against the party.
+
+If you convey a covered work, knowingly relying on a patent license, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, through a publicly available network server or other readily accessible means, then you must either (1) cause the Corresponding Source to be so available, or (2) arrange to deprive yourself of the benefit of the patent license for this particular work, or (3) arrange, in a manner consistent with the requirements of this License, to extend the patent license to downstream recipients. "Knowingly relying" means you have actual knowledge that, but for the patent license, your conveying the covered work in a country, or your recipient's use of the covered work in a country, would infringe one or more identifiable patents in that country that you have reason to believe are valid.
+
+If, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving the covered work authorizing them to use, propagate, modify or convey a specific copy of the covered work, then the patent license you grant is automatically extended to all recipients of the covered work and works based on it.
+
+A patent license is "discriminatory" if it does not include within the scope of its coverage, prohibits the exercise of, or is conditioned on the non-exercise of one or more of the rights that are specifically granted under this License. You may not convey a covered work if you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the work, and under which the third party grants, to any of the parties who would receive the covered work from you, a discriminatory patent license (a) in connection with copies of the covered work conveyed by you (or copies made from those copies), or (b) primarily for and in connection with specific products or compilations that contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to 28 March 2007.
+
+Nothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.
+
+No Surrender of Others' Freedom.
+If conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot convey a covered work so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not convey it at all. For example, if you agree to terms that obligate you to collect a royalty for further conveying from those to whom you convey the Program, the only way you could satisfy both those terms and this License would be to refrain entirely from conveying the Program.
+
+Use with the GNU Affero General Public License.
+Notwithstanding any other provision of this License, you have permission to link or combine any covered work with a work licensed under version 3 of the GNU Affero General Public License into a single combined work, and to convey the resulting work. The terms of this License will continue to apply to the part which is the covered work, but the special requirements of the GNU Affero General Public License, section 13, concerning interaction through a network will apply to the combination as such.
+
+Revised Versions of this License.
+The Free Software Foundation may publish revised and/or new versions of the GNU General Public License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns.
+
+Each version is given a distinguishing version number. If the Program specifies that a certain numbered version of the GNU General Public License "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by the Free Software Foundation. If the Program does not specify a version number of the GNU General Public License, you may choose any version ever published by the Free Software Foundation.
+
+If the Program specifies that a proxy can decide which future versions of the GNU General Public License can be used, that proxy's public statement of acceptance of a version permanently authorizes you to choose that version for the Program.
+
+Later license versions may give you additional or different permissions. However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version.
+
+Disclaimer of Warranty.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+Limitation of Liability.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Interpretation of Sections 15 and 16.
+If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Program, unless a warranty or assumption of liability accompanies a copy of the Program in return for a fee.
+
+                 END OF TERMS AND CONDITIONS
+
+        How to Apply These Terms to Your New Programs
+If you develop a new program, and you want it to be of the greatest possible use to the public, the best way to achieve this is to make it free software which everyone can redistribute and change under these terms.
+
+To do so, attach the following notices to the program. It is safest to attach them to the start of each source file to most effectively state the exclusion of warranty; and each file should have at least the "copyright" line and a pointer to where the full notice is found.
+
+<one line to give the program's name and a brief idea of what it does.>
+Copyright (C) <year>  <name of author>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+Also add information on how to contact you by electronic and paper mail.
+
+If the program does terminal interaction, make it output a short notice like this when it starts in an interactive mode:
+
+<program>  Copyright (C) <year>  <name of author>
+This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+This is free software, and you are welcome to redistribute it
+under certain conditions; type `show c' for details.
+The hypothetical commands show w' and show c' should show the appropriate parts of the General Public License. Of course, your program's commands might be different; for a GUI interface, you would use an "about box".
+
+You should also get your employer (if you work as a programmer) or school, if any, to sign a "copyright disclaimer" for the program, if necessary. For more information on this, and how to apply and follow the GNU GPL, see https://www.gnu.org/licenses/.
+
+The GNU General Public License does not permit incorporating your program into proprietary programs. If your program is a subroutine library, you may consider it more useful to permit linking proprietary applications with the library. If this is what you want to do, use the GNU Lesser General Public License instead of this License. But first, please read https://www.gnu.org/licenses/why-not-lgpl.html.
+
+You’ll have a chance to review before committing a LICENSE file to a new branch or the root of your project.
+
+
+GNU GENEL KAMU LİSANSI
+Sürüm 3, 29 Haziran 2007
+
+Copyright © 2007 Özgür Yazılım Vakfı’na aittir. <http://fsf.org/>
+
+Bu lisans belgesinin tam kopyasının herkes tarafından koplayalanması ve dağıtımı serbest olup, değiştirilmesi yasaktır.
+
+Giriş
+
+GNU Genel Kamu Lisansı, yazılım ve diğer ürünler için kamu malı haline getirilmiş, özgür bir lisanstır.
+
+Pek çok yazılım ve diğer ürünlerin lisanları, bu ürünlerin paylaşımını ve ürünleri değiştirme özgürlüğünü önleyecek şekilde tasarlanmıştır. Buna karşın, GNU Genel Kamu Lisansı bir programın tüm sürümlerini paylaşma ve değiştirme özgürlüğünü güvence altına alır; böylece tüm kullanıcıları için özgür yazılım (free software*) özelliğini koruduğunu garanti altına alır. Biz, Özgür Yazılım Vakfı olarak, GNU Genel Kamu Lisansı’nı yazılımlarımızın birçoğu için kullanmaktayız; bu aynı zamanda yazılımın yaratıcısının bu şekilde piyasaya sürülen diğer çalışmalarına da uygulanmaktadır. Siz de kendi programlarınızda bu lisansı kullanabilirsiniz.
+
+Özgür yazılım kavramında vurgulanmak istenen bedava olması değil, özgürce kullanılabiliyor olmasıdır. Genel Kamu Lisanslarımız, özgür yazılımın kopyalarını dağıtma (ve isterseniz ücretlendirme) özgürlüğünüzü; bu yazılımların kaynak kodlarına erişiminizi ya da isterseniz size sunulmasını, yazılımı değiştirebilmenizi ya da parçalarını yeni özgür yazılımlarda kullanmanızı, ve bu eylemleri gerçekleştirebileceğinizden haberdar olmanızı garanti altına almak için tasarlanmıştır.
+
+Haklarınızı korumak için, diğerlerinin sizi bu haklardan mahrum etmesini ve bu haklardan vazgeçmenizi istemelerini engellemek durumundayız. Bu nedenle, yazılımın kopyalarını dağıttığınız ya da yazılımı değiştirdiğinizde bazı sorumluluklar üstlenirsiniz: Diğerlerinin özgürlüğüne saygı göstermekle yükümlüsünüz.
+
+Örneğin, böyle bir programın kopyalarını ücretli ya da ücretsiz dağıttığınızda, devraldığınız özgürlükleri bir sonraki alıcılara da devretmek zorundasınız. Onların da bu yazılımların kaynak kodlarına erişimini ya da isterlerse kaynak kodların onlara sunulmasını taahhüt etmek durumundasınız. Ayrıca bu şartları haklarını bilmeleri açısından onlara göstermelisiniz.
+
+GNU Genel Kamu Lisansı’nı (GKL) kullanan geliştiriciler, haklarını iki adımda korumuş olurlar: (1) yazılım üzerindeki telif haklarını kanıtlarlar, (2) size bu lisansı sunarak yazılımı çoğaltmanız, dağıtımını yapmanız ve/veya değiştirmeniz için yasal hak tanırlar.
+
+Gelişitiricilerin ve yaratıcıların korunması için GKL, özgür yazılımın teminatı olmadığını açıkça belirtir. Hem yaratıcının hem de kullanıcının yararına GKL, değiştirilen sürümlerin değiştiğine dair işaretlenmesini talep eder; böylece yeni sürümlerdeki sorunlar yanlışlıkla bir önceki sürümlerin yaratıcılarına mal edilmemiş olur.
+
+Bazı cihazlar, üreticilerin yapabilmesine rağmen, kullanıcıların cihaz içindeki yazılımın değiştirilmiş sürümlerinin yüklemesini ya da çalıştırmasını engelleyecek şekilde tasarlanmıştır. Bu durum özünde kullanıcının yazılımı değiştirme özgürlüğünü koruma amacıyla bağdaşmaz. Bu tür suistimaller bireysel kullanım ürünleri için görülür, bu da kesinlikle en kabul edilemez alandır. Bu yüzden, GKL’nin bu sürümünü bahsedilen tür cihazların bu uygulamalarını engellemek için düzenledik. Bu gibi sorunların diğer alanlarda da büyük oranda çıkması durumunda, kullanıcının özgürlüğünü koruma gereğinden dolayı, GKL’nin gelecek sürümlerinde bahsedilen alanlarda bu hükmü genişletmeye hazırız.
+
+Son olarak, her program sürekli olarak yazılım patentlerinin tehdidi altındadır. Devletler patentlerin genel kullanım amaçlı bilgisayarların yazılımlarının geliştirilmesini ve kullanımını kısıtlamaya izin vermemelidir. Devletlerin buna izin vermesi durumunda, özgür programlara uygulanan patentlerin bu programları etkin bir şekilde mülkiyete ait hale getireceği tehdidinden kaçınmasını temenni ediyoruz. Bu durumdan kaçınmak için GKL, patentlerin programların bu özgürlüğünü elinden almak için kullanılamayacağını garanti eder.
+
+Çoğaltma, dağıtma ve değiştirme durumları için kesin hükümler ve koşullar aşağıda belirtilmiştir.
+
+HÜKÜMLER VE KOŞULLAR
+
+0. Tanımlar
+“Bu lisans” ibaresi GNU Genel Kamu Lisansı’nın üçüncü sürümünü ifade eder.
+
+“Telif Hakkı” kavramı aynı zamanda yarı geçirgen maskeler gibi diğer türdeki işlere uygulanan telif benzeri kanunları da kasteder.
+
+“Program” kavramı “işbu lisans” ile patentlenen telif hakkı alınabilir her türlü işi kasteder. Her bir lisans sahibine “siz” diye hitap edilmiş olup; “lisans sahipleri” ve “alıcılar” bireyler ya da kuruluşlar olabilir.
+
+Bir ürünü “değiştirmek”, ürünün tamamını ya da bir kısmını, birebir kopyalamanın dışında, telif hakkı izni gerektirecek şekilde kopyalamayı ya da uyarlamayı kasteder. Ortaya çıkan ürüne bir önceki ürünün ya da bir önceki ürüne dayanan bir ürünün “değiştirilmiş sürümü” adı verilir.
+
+“Korunmuş çalışma” kavramı değiştirilmemiş programı ya da programa dayanan ürünü kasteder.
+
+Bir ürünü “yaymak” (propagate), o ürünle izinsiz olarak yapacağınız her türlü faaliyetin, sizi yürürlükteki bir telif yasasını ihlal etmekten doğrudan ya da ikinci derecede sorumlu kılacağı anlamında olup, bahsi geçen ürünü bir bilgisayarda çalıştırmak ya da özel bir kopyasını değiştirmek bu kapsamda sayılmaz. Yaymak eylemi çoğaltmayı, dağıtımı (değiştirerek ya da değiştirmeksizin), kamuya sunmayı ve bazı ülkelerde başka eylemleri de kapsamaktadır.
+
+Bir ürünü “taşımak”, diğer tarafların kopyaları alması ya da oluşturmasına olanak tanıyacak her türlü yayma eylemini kasteder. Bir bilgisayar ağından bir kullanıcıyla herhangi bir kopya transferi olmaksızın sadece iletişime geçmek, taşıma kapsamına girmez.
+
+Etkileşimli bir kullanıcı arayüzü; (1) uygun bir telif uyarısı göstermek, ve (2) kullanıcıya (teminat sağlandığı durumlar haricinde) çalışmanın bir teminatı olmadığını bildirmek, lisans sahiplerinin bu Lisans’a sahip çalışmaları taşıyabileceğini belirtmek ve bu Lisans’ın bir kopyasını nasıl görüntüleyebileceklerini söylemek gibi uygun ve bariz görülebilir bir özellik olarak “İlgili Yasal Uyarı”yı gösterir. Eğer arayüz, kullanıcıya menü gibi bir komut ya da seçenekler listesi sunuyorsa, göze çarpan bir liste öğesi bu kriterlere uyar.
+
+1. Kaynak Kod.
+Bir çalışmanın“kaynak kodu”, o çalışmanın üzerinde değişiklik yapmak için tercih edilen biçimdir. “Nesne Kodu” çalışmanın kaynak kod haricindeki her türlü biçimidir.
+
+Bir “Standart Arayüz”, tanınmış bir standartlar birliği tarafından belirlenmiş resmi bir standarttır; ya da, belli bir programlama dili için belirlenmiş arayüzler varsa, bunlar arasında o dili kullanan geliştiriciler tarafından en yaygın kullanılandır.
+
+Çalıştırılabilir ürünün “Sistem Kütüphaneleri”, ürünün tamamı dışında, (a) bir Temel Bileşenin parçası olmayan ama o bileşenin normal paketlenmesinde yer alan ve (b) bahsi geçen Temel Bileşenin kullanılmasını sağlayan ya da Standart Arabirim için mevcut, kaynak kod biçiminde kamuya sunulmuş gerçeklenmiş bir arabirimi yeniden gerçeklemeyi sağlayan her şeyi içerir. Bu bağlamda “Temel Bileşen”; programın (eğer varsa) üzerinde çalıştığı işletim sisteminin (çekirdek, pencere sistemi ve benzeri) temel gerekli bileşenleri, ya da işi üretmek için kullanılan derleyici ya da çalıştırmak için kullanılan nesne kod yorumlayıcıdır.
+
+Nesne kodu biçimindeki bir ürün için “İlgili Kaynak”; nesne kodunun üretilmesi, kurulması, ve (çalıştırılabilir bir ürün için) nesne kodunun çalıştırması ve ürünü değiştirmek için gerekli tüm kaynak kod ve ayrıca bu eylemleri kontrol eden betikler anlamına gelir. Ancak, ürünün Sistem Kütüphanelerini, ya da genel amaçlı araçları, ya da ürünün bir parçası olmayan ama bahsi geçen eylemleri gerçekleştirirken değiştirilmeden kullanılan, istisnalar dışında erişilebilen özgür programları içermez. Örneğin İlgili Kaynak, ürünün kaynak dosyalarıyla ilişkili arayüz tanımlama dosyalarını, ve programın özellikle ihtiyaç duyacağı şekilde tasarlandığı paylaşılan kütüphaneler ile dinamik bağlantılı alt programları içerir; örneğin bu alt programlarla ürünün diğer parçaları arasındaki özel veri iletişimi ya da kontrol akışı gibi.
+
+İlgili Kaynak, kullanıcıların İlgili Kaynağın diğer parçalarından kendiliğinden yeniden üretebildiği hiçbir şeyi içermek zorunda değildir.
+
+Bir ürün için kaynak kod biçimindeki İlgili Kaynak, ürünün kendisidir.
+
+2. Temel Yetkiler
+Bu lisansla verilen tüm haklar programdaki telif hakkı adına verilmiş olup, başlangıçta belirtilen şartların karşılanması kaydıyla değiştirilemezler. Bu lisans, değiştirilmemiş programı çalıştırmanız için sınırsız izne sahip olduğunuzu açıkça teyit eder. Bir korunmuş çalışmayı çalıştırdığınızda alınan çıktı, bu çıktının içeriği dikkate alındığında, bir korunmuş çalışma meydana getirdiği takdirde bu lisansla teminat altına alınır. İşbu lisans, telif yasasında da belirtildiği üzere doğru kullanım ya da diğer eşdeğer haklarınızı onaylar.
+
+Lisansınızın başka türlü yürürlükte olmadığı şartlarda, taşımadığınız bir korunmuş çalışmayı oluşturabilir, çalıştırabilir ve yayabilirsiniz. Ancak telif hakkını düzenleyemediğiniz tüm gereçlerin taşınmasında bu lisansın koşullarını yerine getirdiğiniz takdirde; korunmuş bir ürünü sadece sizin için değişiklikler yapmaları amacıyla, ya da bahsedilen ürünleri çalıştırmak için hizmetler sağlamaları amacıyla başkalarına taşıyabilirsiniz. Sizinle ilişkileri dışında telif hakkını aldığınız ürününüzü çoğaltmalarını yasaklamak şartıyla, sizin yönlendirmeniz ve denetiminiz altında, korunmuş işleri sizin için yapacak ya da çalıştıracakların bunu sadece sizin adınıza yapıyor olmaları gerekir.
+
+Diğer şartlar altında taşıma eylemini gerçekleştirmek, sadece yukarıda belirtilen durumlar çerçevesinde serbesttir. Alt lisans yapmak yasaktır; 10′uncu kısım bunu lüzumsuz kılmıştır.
+
+3. Kullanıcının Yasal Haklarını Sahtekarlık Karşıtı Kanunlara Karşı Korumak
+Korunmuş hiçbir ürün, 20 Aralık 1996′da kabul edilen Dünya Fikri Mülkiyet Örgütü (WIPO) Telif Hakkı Anlaşması’nın 11′inci maddesinde belirtilen zorunlulukları yerine getiren yürürlükteki bir yasa gereğince geçerli teknolojik önlemlerin bir parçası sayılamaz.
+
+Korunmuş bir ürünü taşıdığınızda, teknolojik önlemlerin sahtekarlığını yasaklama yasal gücünden, böyle bir sahtekarlığın bu lisans gereğince korunmuş ürün bakımından haklarının korunduğu ölçüde vazgeçmiş olursunuz; ve sizin ya da üçüncü tarafların teknolojik önlemlerin sahtekarlığını önleme yasal hakkını ürünün kullanıcılarına karşı dayatmak yoluyla ürünün kullanımını ya da değiştirilmesini kısıtlamaya yönelik her türlü kasıttan feragat edersiniz.
+
+4. Birebir Kopyaları Taşımak.
+Her kopyayı uygun telif hakkı bildirimiyle bariz ve uygun bir biçimde yayımlamanız; bu lisansın ve bölüm 7′ye uygun olarak eklenen her türlü izin verilmeyen koşulun koda uygulandığını belirten tüm uyarıları aynen korumanız; bir teminat bulunmadığına dair tüm uyarıları aynen korumanız; ve tüm alıcılara programla birlikte bu lisansın bir kopyasını verdiğiniz sürece; programın kaynak kodunun birebir kopyalarını devraldığınız haliyle her ortama taşıyabilirsiniz.
+
+Taşıdığınız kopyalara ücretlendirme uygulayabilir ya da bu kopyaları ücretsiz dağıtabilirsiniz; ücret karşılığında destek ve teminat güvencesi sunabilirsiniz.
+
+5. Değiştirilmiş Kaynak Sürümlerini Taşımak.
+Program baz alınarak oluşturulmuş ürünleri, ya da programdan üretmek için kullanılan değişiklikleri, bölüm 4′teki hükümlere bağlı olarak kaynak kod biçiminde, aşağıdaki koşulları yerine getirdiğiniz takdirde taşıyabilirsiniz:
+
+a) Ürün, sizin onu değiştirdiğinize ve değiştirdiğiniz tarihe dair belirgin bir uyarı içermeli.
+
+b) Ürün, bu lisansla ve 7′inci bölüm kapsamında eklenen koşullarla piyasaya sürüldüğüne dair belirgin bir uyarı içermeli. Bu gereklilik, bölüm 4′te belirtilen “tüm uyarıları aynen korumanız” gerekliliğini düzenler.
+
+c) Ürünün tamamını, kopyaya sahip olacak herkes için işbu lisansla lisanslamalısınız. Buna bağlı olarak işbu lisans, bölüm 7′deki yürürlükte bulunan ek koşullarla birlikte, ürünün tamamına ve tüm kısımlarına nasıl paketlendiklerine bakılmaksızın uygulanacaktır. Bu lisans, ürünün başka bir yoldan lisanslanmasına izin vermez; ancak ürünü bağımsız olarak elde ettiyseniz böyle bir izni hükümsüz kılmaz.
+
+d) Eğer ürün etkileşimli arayüzlere sahipse, her biri İlgili Yasal Uyarıları göstermelidir; ancak, eğer programınızda İlgili Yasal Uyarıları göstermeyen bir etkileşimli arayüz mevcutsa, ürününüz bunu gerçekleştirmeyi sağlamalıdır.
+
+Bir korunmuş ürünün doğal birer uzantısı olmayan, ve daha kapsamlı bir program oluşturmak gibi bir amaçla ürünle birleştirilmemiş diğer ayrı ve bağımsız ürünlerle derlemesine; eğer derleme ya da derleme sonucunda oluşan telif hakkı, bireysel çalışmanın izin verdiğinin ötesinde derleme kullanıcılarının yasal haklarına ya da erişimine kısıtlama koymak için kullanılmıyorsa, depolama ya da dağıtım birimi ortamında “küme” adı verilir. Korunmuş ürünün bir kümeye dahil edilmesi, bu lisansın kümenin diğer kısımlarına uygulanmasına neden olmaz.
+
+6. Kaynak Kod Dışındaki Biçimlerin Taşınması.
+Korunmuş bir ürün bölüm 4 ve 5′teki hükümlere bağlı olarak nesne kodu biçiminde; bu lisanstaki koşullar uyarınca İlgili Kaynak makine dilinde okunabilir olarak da taşındığı takdirde, aşağıdaki yollarla taşınabilir:
+
+a) Nesne kodu ya da nesne kodunun düzenlenmiş hali, somut bir ürüne (somut bir dağıtım ortamı da dahil olmak üzere), yazılım aktarmak için kullanılan kalıcı bir fiziksel ortama sabitlenmiş bir İlgili Kaynak eşliğinde taşınır.
+
+b) En az üç sene geçerli olan ve siz yedek parçalarını ya da müşteri desteğini ürün modelinde sunduğunuz sürece geçerli olacak bir yazılı teklifle birlikte; nesne koduna sahip herkese (1) yazılım aktarmak için kullanılan kalıcı bir fiziksel ortamda, bu kaynağı fiziksel olarak taşımak için gereken makul maliyeti aşmayacak şekilde ücretlendirerek üründe bu lisans tarafından korunan tüm yazılımlar için İlgili Kaynağın bir kopyasını vermek amacıyla, ya da (2) İlgili Kaynağın bir kopyasına bir ağ sunucusu üzerinden ücretsiz olarak erişim sağlamak amacıyla; nesne kodu ya da nesne kodunun düzenlenmiş hali, fiziksel bir ürüne (fiziksel bir dağıtım ortamı da dahil olmak üzere) taşınır.
+
+c) Nesne kodunun bireysel kopyaları, İlgili Kaynağı sağlamak için yazılı belgenin bir kopyasıyla taşınır. Bu seçenek, sadece nadiren ve ticari olmayan durumlarda, ve sadece nesne kodunu böyle bir teklifle aldığınız durumlarda, 6b alt bölümüne uygun olarak yapıldığında geçerlidir.
+
+d) Nesne kodu, belirlenen bir yerden erişim sağlanarak (ücretsiz ya da bir ücret karşılığında) taşınır, ve aynı yerden aynı şekilde fazladan bir ücret talep etmeden İlgili Kaynak için de erişim teklif edilir. Nesne koduyla birlikte İlgili Kaynağın bir kopyasını alıcılara iletmek zorunda değilsiniz. Eğer nesne kodunun kopyalanacağı yer bir ağ sunucusu ise, İlgili Kaynak; aynı kopyalama özelliklerini barındıran, İlgili Kaynağın nereden bulunacağını söyleyerek nesne kodunun yanında yönlendirmelerde bulunan (sizin tarafınızdan ya da üçüncü taraflarca yönetilen) başka bir sunucuda olabilir. İlgili Kaynağı hangi sunucunun tuttuğundan bağımsız olarak, bu gereklilikleri karşılama ihtiyacı bulunduğu sürece kullanıma hazır bulunmasını sağlamak zorundasınız.
+
+e) Nesne kodu; ürünün nesne kodunun ve İlgili Kaynağın, 6d alt bölümü uyarınca genel kamuya ücret talep edilmeden nerede sunulduğunu diğer eşlere bildirmeniz kaydıyla, eşbirimler arası aktarım kullanarak taşınır.
+
+Nesne kodunun, kaynak kodu İlgili Kaynak’tan bir Sistem Kütüphanesi olarak ayrılabilir bir parçası, nesne kodu ürünün taşınması sürecine dahil edilmek zorunda değildir.
+
+Bir “Kullanıcı Ürünü” (1) normalde kişisel, ailevi ya da evle ilgili bir amaçla kullanılan somut bir kişisel eşyayı, ya da (2) evde kullanım için ticari amaçla tasarlanan ya da satılan her şeyi kapsar. Bir ürünün tüketici ürünü olup olmadığını belirlerken, belirsiz durumlar teminat adına giderilmelidir. Belli kullanıcılar tarafından alınan bazı ürünler için “normal kullanım” terimi; kullanıcının durumuna ya da ürünü nasıl kullandığına, üründen ne beklediğine ya da ürünü ne şekilde kullanmasının beklendiğine bakılmaksızın, o sınıftaki ürünün standart ya da genel kullanımını kasteder. Bir ürün; o ürünün önemli ticari, sınai veya doğrudan kullanıcı dışındaki kullanımları olup olmadığına bakılmaksızın, bu tür kullanımlar ürünün sadece belirli biçimlerde kullanımını göstermediği sürece, tüketici ürünüdür.
+
+Bir kullanıcı ürünü için “Kurulum Bilgisi”; korunmuş işin değiştirilmiş sürümlerini, İlgili Kaynağın değiştirilmiş sürümünden elde edilen Kullanıcı Ürününde kurmak ve çalıştırmak için gereken her türlü metod, yöntem, yetkilendirme anahtarı, ya da diğer bilgilerin tümüdür. Bu bilgilendirme, sırf değişiklik yapılmış olması nedeniyle, değiştirilmiş nesne kodunun sürmekte olan işleyişinin hiçbir durumda önlenmiş ya da müdahale edilmiş olmadığından emin olmaya yetmelidir.
+
+Eğer bir nesne kodunu bu bölüm uyarınca bir Kullanıcı Ürününde, Kullanıcı Ürünüyle ya da özellikle o ürünle kullanılmak üzere taşıyorsanız; ve taşıma işlemi, sahiplik hakkı ile kullanıcı ürününün kullanım hakkının daimi ya da belirli bir vade için alıcıya iletildiği (iletimin nasıl nitelendirildiğine bakılmaksızın) bir işlemin parçası olarak gerçekleşiyorsa, bu bölüm kapsamında yapılacak İlgili Kaynak taşıma işlemi, Kurulum Bilgisi eşliğinde gerçekleştirilmelidir. Fakat hem siz hem de üçüncü taraflar Kullanıcı Ürününe değiştirilmiş nesne kodunu kurma yetisini elinizde bulundurmuyorsanız (örneğin ürün bir ROM içine kurulduysa), bu gereklilik uygulanmaz.
+
+Kurulum Bilgisi sunma gerekliliği; destek hizmeti, güvence ya da alıcı tarafından değiştirilen veya kurulan bir ürün yahut bir Kullanıcı Ürünü için, güncelleme sağlamayı devam ettirme gerekliliğini beraberinde getirmez. Değişikliğin kendisi maddi ve olumsuz olarak ağın işleyişini etkilediğinde ya da ağ üzerindeki iletişimin kural ve protokollerini ihlal ettiğinde, bu ağa erişim engellenebilir.
+
+Bu bölüm uyarınca taşınan İlgili Kaynak ve sağlanan Kurulum Bilgisi, kamuoyuna açık olarak belgelendirilmiş bir biçimde (ve kaynak kod biçiminde kamu kullanımına sunulmuş olarak) olup; paketin açılması, okunması ya da kopyalanması için herhangi bir özel parola ya da anahtar gerektirmemelidir.
+
+7. Ek Koşullar.
+“Ek izinler”, bir ya da birden fazla durumda istisna yaratarak bu lisansın hükümlerini desteklemek için konulan koşullardır. Programın tümüne uygulanabilen ek izinler, yürürlükteki kanuna göre geçerli oldukları sürece bu lisansın içinde yer alıyor konumda görülür. Eğer ek izinler programın sadece bir kısmına uygulanıyorsa, bu kısım bu izinlere bağlı olarak ayrıca kullanılabilir; fakat ek izinlere bakılmaksızın programın tamamı bu lisans tarafından yönetilmeye devam eder.
+
+Korunmuş bir ürünü taşıdığınızda, bu kopyadan ya da bir kısmından, ek izinlerden herhangi birini kaldırma seçeneğiniz mevcuttur. (Ek izinler ürünü değiştirdiğiniz bazı durumlarda kendini ortadan kaldırmak için de yazılabilirler.) Korunmuş işe tarafınızdan eklenen, ilgili telif iznine sahip olduğunuz ya da izni verebileceğiniz materyalin üstüne ek izinler yerleştirebilirsiniz.
+
+İşbu lisansın diğer hükümlerine bakılmaksızın, korunmuş ürüne yerleştirdiğiniz gereç için, siz (eğer bu materyalin telif sahiplerinden biri olarak yetkilendirildiyseniz) işbu lisansın şu koşullarını ilave edersiniz:
+
+a) İşbu lisansın bölüm 15 ve 16′da yer alan koşullardan farklı koşullarla teminatı reddetmek ya da mesuliyeti kısıtlamak; veya
+
+b) Belirtilen kabul edilebilir yasal uyarıların ya da yaratıcının; bahsedilen gereçte, ya da gerecin dahil olduğu iş tarafından gösterilen İlgili Yasal Uyarılarda bulunan öz niteliklerinin korunmasını sağlamak; veya
+
+c) Bahsi geçen materyalin özgün halinin yanlış yorumlanmasını yasaklamak, ya da bu tür materyallerin değiştirilen sürümlerinin özgün halinden farklı olarak uygun yollarla işaretlenmesini sağlamak; veya
+
+d) Materyalin lisans sahiplerinin ya da yaratıcılarının isimlerinin reklam amaçlı kullanılmasını kısıtlayarak; veya
+
+e) Bazı ticari ünvanların, markaların ya da hizmet markalarının kullanımına marka kanunu uyarınca hak tanımayı reddetmek; veya
+
+f) sözleşmeden doğan bu varsayımların doğrudan lisans sahiplerine ve yazarlara dayatılan herhangi bir yükümlülüğe karşı; gereci (ya da değiştirilmiş halini) sözleşmeye dayalı yükümlülüklerle alıcıya taşıyan herhangi biri tarafından, işbu materyalin lisans sahipleri ve yaratıcılarını güvence altına almak; veya
+
+Diğer tüm isteğe bağlı olmayan ek koşullar, bölüm 10 içeriği uyarınca “ek kısıtlamalar” olarak nitelendirilir. Eğer elinize ulaşan program, ya da bu programın bir parçası, bir ek kısıtlama koşuluyla birlikte bu lisans tarafından yönetildiğine dair bir uyarı içeriyorsa, bu hükmü ortadan kaldırabilirsiniz. Eğer bir lisans belgesi ek kısıtlamalar içeriyor fakat yeniden lisanslamaya ya da taşımaya bu lisans gereğince izin veriyorsa; ek kısıtlamaların böyle bir yeniden lisanslama veya taşımada geçerliliğini kaybetmesi koşuluyla bu lisans belgesi hükümleri kapsamındaki bir korunmuş ürün gerecine ek kısıtlamalar ekleyebilirsiniz.
+
+Bu bölüm kapsamında bir korunmuş ürüne koşullar eklerseniz; ilgili kaynak dosyalarına, bu dosyalara uygulanan ek koşulların olduğunu bildiren, ya da yürürlükteki koşulların nerede bulunabileceğini gösteren bir uyarı yerleştirmek zorundasınız.
+
+Uyulması zorunlu olan ya da olmayan ek koşullar, ayrı bir yazılı lisans biçiminde ya da özel durumlar şeklinde belirtilebilir; her durumda yukarıda belirtilen gereklilikler uygulanır.
+
+8. İptal.
+Bir korunmuş işi işbu lisansta özellikle belirtilmediği sürece yayamaz ya da değiştiremezsiniz. Aksine bir yayma ya da değiştirme girişimi lisansı feshetmek olup, bu lisans kapsamındaki tüm haklarınızı (11′inci bölümün üçüncü paragrafı uyarınca verilen patent lisansları da dahil olmak üzere) kendiliğinden sonlandıracaktır.
+
+Bununla birlikte, işbu lisansın ihlalini durdurursanız; belli bir telif hakkı sahibi tarafından verilen lisansınız (a) telif hakkı sahibi, açıkça ve tamamen lisansınızı sonlandırmadıysa geçici olarak, ya da (b) telif hakkı sahibi, durdurmadan itibaren 60 gün içinde uygun yollardan ihlali bildirmediyse kalıcı olarak yeniden sağlanır.
+
+Buna ek olarak, eğer telif hakkı sahibi uygun yollardan size ihlali bildirirse bellli bir telif sahibinden gelen lisansınız kalıcı olarak yeniden sağlanır; işbu lisansın (herhangi bir iş için) ihlalinden dolayı bahsi geçen telif sahibi tarafından aldığınız bu ilk uyarı olup, uyarı almanızdan itibaren 30 gün içinde ihlali giderirsiniz.
+
+Bu bölüm uyarınca haklarınızın iptali işbu lisans altında kopyaları ya da hakları alan tarafların lisanslarını sonlandırmaz. Eğer haklarınız sonlandırılırsa ve kalıcı olarak tekrar size verilmezse, bölüm 10 uyarınca aynı gereç için yeni lisanslar alma yetkisine sahip olmazsınız.
+
+9. Kopya Almak İçin Onay Gerektirmeyen Durumlar.
+Bir programın kopyasını almak ya da çalıştırmak için işbu lisansı kabul etmek zorunda değilsiniz. Sadece bir kopyayı almak için eşbirimler arası aktarımın bir sonucu olarak meydana gelen bir korunmuş ürünün ikincil yollardan yayılması aynı şekilde onay gerektirmeyen bir durumdur. Yine de, sadece işbu lisans herhangi bir korunmuş ürünü değiştirme ya da yayma izni verir. Dolayısıyla bir korunmuş ürünü değiştirerek ya da yayarak işbu lisansın bu yetkisini kabul ettiğinizi beyan etmiş olursunuz.
+
+10. İndiren Alıcıların Kendiliğinden Lisanslanması.
+Korunmuş bir ürünü her taşıdığınızda, işbu lisans altındaki bir ürünü çalıştırma, değiştirme ve yayma izni özgün telif sahiplerinden alıcılara kendiliğinden aktarılmış olur. İşbu lisans uyarınca uyumluluğun üçüncü taraflarca dayatılmasından yükümlü değilsiniz.
+
+Bir “varlık aktarımı”, bir kuruluşun denetiminin, ya da tüm varlıklarının büyük ölçüde aktarımıdır; ya da bir kuruluşu alt bölümlere ayırmak, yahut kuruluşları birleştirmektir. Eğer bir korunmuş işin yayılması varlık aktarımının bir sonucu olarak gerçekleşiyorsa, bu aktarımda ürünün bir kopyasını elde eden tüm taraflar; bahsi geçen bir önceki taraf kuruluşun ilgili sorumluları ürünle birlikte hangi lisansları vermiş ya da verebilirse, üstteki paragraf uyarınca bu lisansları alır; ve bunun yanında bahsi geçen bir önceki sorumludan, eğer bahsi geçen sorumlunun sahipliğindeyse ya da uygun çabalar sonucu bu sorumlu İlgili Kaynağı elde etmişse, ürünün İlgili Kaynağına sahip olma hakkını devralır.
+
+İşbu lisansla verilen ya da kabul edilen hakların geçerliliğine ek kısıtlamalar getiremezsiniz. Örneğin, işbu lisans ile atanan hakların uygulanmasına yönelik bir ruhsat ücreti, telif ücreti ya da başka bir ücretlendirme uygulayamazsınız; herhangi bir patent hakkı iddiasının, programı ya da herhangi bir bölümünü yaratmak, kullanmak, satmak, satmayı teklif etmek, ya da içe aktarmak yoluyla ihlal edildiğini öne sürerek (dava süresince karşı talepte bulunmak ya da karşı dava açmak da dahil olmak üzere) dava açma girişiminde bulunamazsınız.
+
+11. Patentler
+Bir “katkıda bulunan”, işbu lisans altında programa ya da programa bağlı bir ürünün kullanımına izin veren telif hakkı sahibidir. Dolayısıyla lisanslanan ürüne, “katkıda bulunanın sürümü” adı verilir.
+
+Bir katkı sağlayıcının “temel patent istemleri”; bahsi geçen katkı sağlayıcı tarafından sahip olunan ya da yönetilen, elde edilmiş ya da edilecek, bu lisanla izin verilen yaratma, kullanma ya da satma yollarıyla ihlal edilmesi muhtemel patent istemlerinin tümüdür; fakat katkı sağlayıcının sürümünün yalnızca ileride değiştirilmesi sonucu oluşabilecek patent hakkı taleplerini içermez. İşbu tanımın amaçları için, “yönetmek”, işbu lisansın gerekliliklerine uygun olarak alt lisansları patentleme hakkını vermeyi de kapsar.
+
+Her katkı sağlayıcı; temel patent istemleri altında, katkı sağlayanın sürümünün içeriğini yaratma, kullanma, satma, satmayı teklif etme, içe aktarma ya da ayrıca değiştirme ve yayma lisansını; tam yetki vermeyen, dünya çapında, telifsiz patent lisansı şeklinde verir.
+
+Bunu takip eden üç paragrafta, bir “patent lisansı” herhangi açık anlaşma ya da taahhüt olarak adlandırılsa da, bir patenti dayatmak (örneğin bir patenti uygulamak için açık izin ya da patent ihlali talebiyle mahkemeye vermemek için sözleşmek gibi) amaçlı değildir. Böyle bir patent lisansını bir tarafa “vermek”, bahsi geçen tarafa karşı patenti dayatmayacağını taahhüt etmek ya da buna dair bir anlaşmaya varmak anlamına gelir.
+
+Eğer bir patent lisansına dayandığını bilerek korunmuş bir ürünü taşırsanız, ve ürünün İlgili Kaynağı kimsenin kopyalamasına açık değilse, ücretsizse ve bu lisansın hükümleri altındaysa, kamuya açık bir ağ sunucusu ya da rahatlıkla ulaşılabilir yerlerde mevcutsa; böyle bir durumda (1) İlgili Kaynağın erişilebilir olmasını sağlamalısınız, ya da (2) bahsi geçen bu ürün için patent lisansının faydalarından yoksun kalmaya hazırlıklı olmalısınız, ya da (3) işbu lisansın yükümlülükleriyle uyumlu bir yoldan patent lisansını, indiren alıcılara ulaştırmaya hazırlanmalısınız. Yukarıda geçen “Dayandığını bilerek” kullanımı; patent lisansı ile korunmuş bir işi bir ülkede taşıma eyleminizin ya da alıcınızın korunmuş ürünü bir ülkede kullanmasının, o ülkede geçerli olduğunu düşündüğünüz bir ya da daha fazla patentin ihlaline sebep olduğunu bilmek demektir.
+
+Eğer, tekil bir işlem ya da düzenlemeyle uyumlu veya bağlantılı olarak, bir korunmuş işi taşır, ya da taşınmasını sağlayarak yayarsanız, ve korunmuş işin alıcısı taraflara işin bir kopyasını kullanma, yayma, değiştirme ya da taşıma yetkisi veren bir lisans verirseniz; sağladığınız patent lisansı kendiliğinden korunmuş işin ve buna bağlı ürünlerin alıcılarına kadar ulaşır.
+
+Bir patent lisansı, eğer kapsamı çerçevesinde işbu lisansla verilen hakların bir ya da daha fazlasının kullanılmasını engelliyor ya da kullanılmaması koşuluna bağlanıyorsa, ayrımcıdır. Eğer yazılım dağıtan bir sektördeki bir üçüncü tarafla yapılan; ürünü taşıma eyleminizin derecesine bağlı olarak; üçüncü taraflara ödeme yaptığınız, ve korunmuş ürünü sizden alan taraflardan herhangi birine (a) tarafınızdan taşınan korunmuş işin kopyalarına (ya da bu kopyalardan üretilen kopyalara) bağlı olarak, ya da (b)bir anlaşma yapmadıysanız ya da 28 Mart 2007′den önce patent lisansı verilmişse, korunmuş işi kapsayan belirli ürün ya da derlemeler için ve onlarla bağlantılı olarak, ayrımcı patent lisansını veren üçüncü tarafların bulunduğu anlaşmada tarafsanız, korunmuş ürünü taşıyamazsınız.
+
+İşbu lisanstaki hiçbir şey, uygulanabilir patent yasası uyarınca sizin için geçerli olabilecek ihlallerin savunması olarak ya da herhangi bir dolaylı lisansı hariç tutmak ya da kısıtlamak olarak yorumlanamaz.
+
+12. Diğerlerinin Haklarından Vazgeçmemek.
+Eğer size (mahkeme kararıyla, sözleşmeyle ya da başka bir yolla) kabul ettirilen şartlar işbu lisansın şartlarıyla çelişiyorsa, sizi işbu lisansın şartlarından muaf tutmaz. Eğer bu lisansla gelen zorunlulukları ve geçerli diğer zorunlulukları aynı zamanda yerine getirmek amacıyla korunmuş bir işi taşıyamıyorsanız, bunun bir sonucu olarak hiçbir zaman taşıyamazsınız. Örneğin, programı taşıdığınız kişilerden daha fazla taşıma yapmak için telif ücreti toplamak zorunda bırakan koşulları kabul ederseniz, bahsi geçen şartları ve işbu lisansın şartlarını yerine getirmek için tek yol programı taşımaktan tamamen kaçınmaktır.
+
+13. GNU Affero Genel Kamu Lisansı ile Kullanım.
+İşbu lisansın diğer hükümlerine bakılmaksızın, herhangi bir korunmuş ürünü, GNU Affero Genel Kamu Lisansı sürüm 3 ile lisanslanan diğer korunmuş ürünlerle bağlantılandırma ya da tek bir korunmuş üründe birleştirme, ve ortaya çıkan ürünü taşıma iznine sahipsiniz. İşbu lisansın hükümleri korunmuş ürünün olduğu kısım için uygulanmaya devam eder; ancak GNU Affero Genel Kamu Lisansı’nın 13′üncü bölümünde bir ağ yoluyla gerçekleşen ilgili etkileşim, bunun gibi birleştirmelere uygulanacaktır.
+
+14. Lisansın Değiştirilmiş sürümleri.
+Özgür Yazılım Vakfı, GNU Genel Kamu Lisansı’nın değiştirilmiş ve/veya yeni sürümlerini zaman zaman yayımlayabilir. Bu gibi yeni sürümler, halihazırdaki sürümle aynı ruhu taşımakta olup, yeni sorun ve endişeler konusunda ayrıntılandırılması bakımından farklılık gösterebilir.
+
+Her sürüme ayırt edici bir sürüm numarası verilir. Eğer program GNU Genel Kamu Lisansı’nın bazı numaralı sürümlerinin ya da “daha sonraki herhangi bir sürümün” ona uygulandığını belirtiyorsa, bahsi geçen numaralı sürümün ya da Özgür Yazılım Vakfı tarafından yayınlanan daha sonraki bir sürümün hükümlerini ve koşullarını kabul etme seçeneğiniz mevcuttur. Eğer program GNU Genel Kamu Lisansı’nın bir sürüm numarası belirtmiyorsa, Özgür Yazılım Vakfı tarafından yayınlanan sürümlerden herhangi birini seçebilirsiniz.
+
+Eğer program ileride hangi GNU Genel Kamu Lisansının kullanılacağını bir vekilin belirleyebileceğini belirtiyorsa, bu vekilin bir sürümü kabul ettiğinin resmi beyanatı, sizi program için o sürümü seçmeye kalıcı şekilde yetkilendirir.
+
+Daha sonraki lisans sürümleri, size ek ya da farklı izinler sunabilir. Ancak, hiçbir ek yükümlülük daha sonraki bir sürümü takip etmenizin bir sonucu olarak hiçbir yaratıcı ya da telif hakkı sahibine dayatılamaz.
+
+15. Teminattan Vazgeçmek.
+YÜRÜRLÜKTEKİ YASALARLA ONAYLANDIĞI ÖLÇÜDE PROGRAMIN BİR TEMİNATI YOKTUR. YAZILI OLARAK AKSİ BELİRTİLMEDİĞİ SÜRECE TELİF HAKKI SAHİPLERİ VE/VEYA DİĞER TARAFLAR, DOĞRUDAN YA DA DOLAYLI OLARAK, TİCARETİNİN YAPILABİLİRLİĞİNE VE ÖZEL BİR AMAÇ İÇİN UYGUNLUĞUNA TEMİNAT VERMEK DE DAHİL, ANCAK BUNUNLA KISITLI KALMAYARAK, HİÇBİR TEMİNAT SUNMADAN PROGRAMI “OLDUĞU GİBİ” TEDARİK EDERLER. PROGRAMIN KALİTESİ VE PERFORMANSIYLA İLGİLİ TÜM RİSK SİZE AİTTİR. PROGRAMIN HATALI OLDUĞU ORTAYA ÇIKARSA, TÜM GEREKLİ HİZMET, ONARIM VE DÜZELTME ÜCRETİ SİZİN TARAFINIZDAN ÜSTLENİLİR.
+
+16. Yükümlülüğün Kısıtlanması.
+YÜRÜRLÜKTEKİ YASALARLA ZORUNLU TUTULMADIĞI YA DA YAZILI OLARAK KARARLAŞTIRILMADIĞI SÜRECE HİÇBİR DURUMDA, HİÇBİR TELİF HAKKI SAHİBİ YA DA YUKARIDA BELİRTİLDİĞİ GİBİ PROGRAMDA DEĞİŞİKLİK YAPAN VE/VEYA PROGRAMI TAŞIYAN BAŞKA BİR TARAF; HERHANGİ BİR GENEL, ÖZEL, KAZARA YA DA DOLAYLI OLARAK, PROGRAMIN KULLANIMINDAN VEYA YETERSİZLİĞİNDEN DOĞAN (VERİ KAYBI, VEYA HATALI BULUNAN VERİ, VEYA TARAFINIZDAN YAHUT ÜÇÜNCÜ TARAFLARCA ZARARA UĞRATILMA, VEYA PROGRAMIN DİĞER PROGRAMLARLA ÇALIŞMAKTA BAŞARISIZ OLMASI DA DAHİL OLMAK ÜZERE VE BUNLARLA KISITLI OLMADAN) ZARARLAR DAHİL OLMAK ÜZERE, BÖYLE BİR TELİF SAHİBİ YA DA DİĞER TARAFIN BU GİBİ ZARARLARDAN HABERDAR EDİLDİĞİ KOŞULLARDA BİLE, HASARLAR KONUSUNDA SİZE KARŞI SORUMLU DEĞİLDİR.
+
+17. 15 ve 16′ncı bölümlerin yorumlanması.
+Eğer yukarıda belirtilen “teminattan vazgeçmek” ve “güvenilirliğin kısıtlanması” maddelerinin hükümlerine göre yerel bir hukuki neticeye varılamıyorsa, inceleyen mahkemeler; güvenilirliğin bir güvence ya da taahhütü ücret karşılığında programın kopyasına eşlik etmiyorsa, programla bağıntılı tüm hukuki sorumluluktan tamamen feragat etmeye en yakın yerel yasanın uygulanmasını sağlar.
+
+HÜKÜMLER VE KOŞULLARIN SONU.
+
+Bu Hükümler Yeni Programlarınıza Nasıl Uygulanır?
+Yeni bir program geliştirdiyseniz ve programı en fazla yararlanılabilecek biçimde kamunun genel kullanımına açmak istiyorsanız, bunu başarmanın en iyi yolu, ürününüzü herkesin yeniden dağıtabildiği ve bu koşullar altında değiştirebildiği özgür yazılım yapmaktır.
+
+Bunu yapmak için, aşağıdaki uyarıları programınıza iliştirin. Bunun en güvenli yolu her bir kaynak kodun başına teminattan vazgeçildiğini en etkili olarak gösteren biçimde yerleştirmektir; ve her bir dosya en azından “telif hakkı” satırını ve uyarının tamamının bulunduğu yeri gösteren bir belirteç içermelidir.
+
+<program adını yazmak için bir satır ve ne işe yaradığına dair kısa bir bilgi.>
+
+Copyright (C) <yıl> <yazarın adı>
+
+Bu program özgür yazılımdır: Özgür Yazılım Vakfı tarafından yayımlanan GNU Genel Kamu Lisansı’nın sürüm 3 ya da (isteğinize bağlı olarak) daha sonraki sürümlerinin hükümleri altında yeniden dağıtabilir ve/veya değiştirebilirsiniz.
+
+Bu program, yararlı olması umuduyla dağıtılmış olup, programın BİR TEMİNATI YOKTUR; TİCARETİNİN YAPILABİLİRLİĞİNE VE ÖZEL BİR AMAÇ İÇİN UYGUNLUĞUNA dair bir teminat da vermez. Ayrıntılar için GNU Genel Kamu Lisansı’na göz atınız.
+
+Bu programla birlikte GNU Genel Kamu Lisansı’nın bir kopyasını elde etmiş olmanız gerekir. Eğer elinize ulaşmadıysa <http://www.gnu.org/licenses/> adresine bakınız.
+
+Ayrıca elektronik ya da normal posta yoluyla sizinle nasıl iletişime geçilebileceği hakkında da bilgi veriniz.
+
+Eğer programın terminal etkileşimi varsa, etkileşimli modda başlatıldığında programın şöyle bir kısa uyarı göstermesini sağlayın:
+
+<program>  Copyright (C) <yıl>  <yazarın adı>
+Bu programın KESİNLİKLE HİÇBİR TEMİNATI YOKTUR; ayrıntılar için 'göster t' yazın. 
+Bu bir özgür yazılımdır, ve bazı koşullar altında yeniden dağıtmakta serbestsiniz; ayrıntılar için 'göster k' yazın. 
+Varsayımsal ‘göster t’ ve ‘göster k’ komutları Genel Kamu Lisansı’nın ilgili bölümlerini göstermelidir. Elbette sizin programınızın komutları farklı olabilir; Grafiksel Kullanıcı Arayüzü için, bir “hakkında kutucuğu” kullanmalısınız.
+
+Ayrıca (bir programcı olarak çalışıyorsanız) işvereninize ya da varsa okula, gerekirse bir “telif hakkı feragatnamesi” imzalatmalısınız. Bununla ilgili daha fazla bilgiye, ve GNU GKL’nin nasıl uygulanacağı ve izleneceğine dair bilgiye <http://www.gnu.org/licenses/> adresinden ulaşabilirsiniz.
+
+GNU Genel Kamu Lisansı programınızın tescilli bir programla birleşip tüzel kişilik kazanmasına izin vermez. Eğer programınız bir altprogram kütüphanesiyse, tescilli uygulamaların bu kütüphaneyle bağlanmasına izin vermeyi daha kullanışlı görebilirsiniz. Eğer böyle olmasını istiyorsanız, bu lisans yerine GNU Kısıtlı Genel Kamu Lisansı’nı kullanınız. Fakat öncelikle şunu okuyunuz: <http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
+*Özgür yazılım kavramının İngilizcesi “free software” olarak ifade edilir. Burada “free” sözcüğünün anlamı, “ücretsiz” değil “özgür”dür.
