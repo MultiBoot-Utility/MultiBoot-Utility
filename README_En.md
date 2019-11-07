@@ -41,10 +41,19 @@
 	- If no Grub4Dos is present in the system, it installs under the grub directory by default.
 	- If there are already Grub4Dos files installed on the system (it doesn't matter which folder it is), it will update by overwriting.
 * If Secure Boot is enabled in UEFI, it replaces the current MultiBoot system's UEFI boot method with original efi files signed by Microsoft and makes it ready for use.
+* XorBoot Bootloader installs. Makes it ready to use.
+	- You can use Xorboot Bootloader configuration programs directly from the program.
 * You can run all tests by opening Virtual Disk Management program, QEMU Test program and Bootice program directly through the program.
 
 ## Change Log
 ```
+(v1.5)
+ # Zero installation v2.04 and v2.05 are optional.
+ # Added Xorboot bootloader.
+ # It is now possible to use XorBoot Bootloader programs through the program.
+ # Loader creation and update grubx64.efi and grubia32.efi files are now created.
+ # Fixed an error in the installation when there was a space in the Windows user name.
+ 
 (v1.4)
  # Clover and rEFInd Bootloader added.
  # Disc structure information added.

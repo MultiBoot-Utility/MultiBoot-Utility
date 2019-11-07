@@ -41,10 +41,19 @@
 	- Sistemde Grub4Dos hiç yoksa default olarak grub dizininin altına kurar.
 	- Sistemde önceden yüklü Grub4Dos dosyaları varsa (Hangi klasörde olduğu önemli değil) üzerine yazarak güncelleme yapar.
 * UEFI de Secure Boot aktif iken boot sorunu yaşanması durumunda kullanılan mevcut MultiBoot sisteminin UEFI boot yöntemini Microsoft tarafından imzalanmış orijinal efi dosyaları ile değiştirir ve kullanıma hazır hale getirir.
+* XorBoot Bootloader kurulumu yapar. Kullanıma hazır hale getirir.
+	- Xorboot Bootlader yapılandırma programlarını direk program üzerinden kullanabilirsiniz.
 * Program üzerinden direk Sanal Disk Yönetim programı, QEMU Test programı ve Bootice programını açarak bütün testleri yapabilirsiniz.
 
 ## Yapılan Değişiklikler
 ```
+(v1.5)
+ # Sıfır kurulum v2.04 ve v2.05 seçmeli hale getirildi.
+ # Xorboot bootloader eklendi.
+ # Program üzerinden XorBoot Bootloader programlarının kullanılması sağlandı.
+ # Loader oluşturmada ve güncelleştirmede grubx64.efi ve grubia32.efi dosyalarınında oluşturulması sağlandı.
+ # Windows kullanıcı adında boşluk olduğunda kurulumda oluşan hata giderildi.
+ 
 (v1.4)
  # Clover ve rEFInd Bootloader eklendi.
  # Disk yapısı bilgisi eklendi.
