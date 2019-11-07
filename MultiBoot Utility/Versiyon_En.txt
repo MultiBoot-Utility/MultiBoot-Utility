@@ -1,5 +1,8 @@
-1.4.0.0
+1.5.0.0
 
-MultiBoot Utility v1.4
-- Clover and rEFInd Bootloader added.
-- Disc structure information added.
+Change Log:
+# Zero installation v2.04 and v2.05 are optional.
+# Added Xorboot bootloader.
+# It is now possible to use XorBoot Bootloader programs through the program.
+# Loader creation and update grubx64.efi and grubia32.efi files are now created.
+# Fixed an error in the installation when there was a space in the Windows user name.

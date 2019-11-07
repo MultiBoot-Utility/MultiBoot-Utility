@@ -1,5 +1,8 @@
-1.4.0.0
+1.5.0.0
 
-MultiBoot Utility v1.4
-- Clover ve rEFInd Bootloader eklendi.
-- Disk yapısı bilgisi eklendi.
+Yapılan Değişiklikler:
+# Sıfır kurulum v2.04 ve v2.05 seçmeli hale getirildi.
+# Xorboot bootloader eklendi.
+# Program üzerinden XorBoot Bootloader programlarının kullanılması sağlandı.
+# Loader oluşturmada ve güncelleştirmede grubx64.efi ve grubia32.efi dosyalarınında oluşturulması sağlandı.
+# Windows kullanıcı adında boşluk olduğunda kurulumda oluşan hata giderildi.
