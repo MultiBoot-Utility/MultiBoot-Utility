@@ -4,10 +4,10 @@
 ![alt MultiBoot Utility](https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/Goruntuler/MultiBoot_Utility_1_Tr.PNG)
 
 ## Download
-#### Turkish (v1.4)
+#### Turkish (v1.5)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20Tr.exe/download)
 
-#### English (v1.4)
+#### English (v1.5)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20En.exe/download)
 
 [Eski Versiyonlar](https://github.com/MultiBoot-Utility/MultiBoot-Utility/tree/master/MultiBoot%20Utility/Old)
