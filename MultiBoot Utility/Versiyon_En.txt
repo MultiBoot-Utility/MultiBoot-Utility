@@ -1,8 +1,5 @@
-1.5.0.0
+1.6.0.0
 
 Change Log:
-# Zero installation v2.04 and v2.05 are optional.
-# Added Xorboot bootloader.
-# It is now possible to use XorBoot Bootloader programs through the program.
-# Loader creation and update grubx64.efi and grubia32.efi files are now created.
-# Fixed an error in the installation when there was a space in the Windows user name.
+# Grub2 File Manager for the latest up-to-date files are downloaded and installed from the internet.
+# The latest installation of Grub2 File Manager and Grub4Dos files is provided in zero installation.

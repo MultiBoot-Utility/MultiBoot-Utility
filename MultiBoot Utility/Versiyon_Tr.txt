@@ -1,8 +1,5 @@
-1.5.0.0
+1.6.0.0
 
 Yapılan Değişiklikler:
-# Sıfır kurulum v2.04 ve v2.05 seçmeli hale getirildi.
-# Xorboot bootloader eklendi.
-# Program üzerinden XorBoot Bootloader programlarının kullanılması sağlandı.
-# Loader oluşturmada ve güncelleştirmede grubx64.efi ve grubia32.efi dosyalarınında oluşturulması sağlandı.
-# Windows kullanıcı adında boşluk olduğunda kurulumda oluşan hata giderildi.
+# Grub2 Dosya Yönetici için en son güncel dosyaların internetten indirilerek kurulumu sağlandı.
+# Sıfır kurulumda Grub2 Dosya Yönetici ve Grub4Dos dosyalarının en güncel dosyalarının kullanılması sağlandı.
