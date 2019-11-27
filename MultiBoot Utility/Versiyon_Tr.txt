@@ -1,5 +1,6 @@
-1.6.0.0
+1.7.0.0
 
 Yapılan Değişiklikler:
+# Hata düzeltme (grubenv)
 # Grub2 Dosya Yönetici için en son güncel dosyaların internetten indirilerek kurulumu sağlandı.
 # Sıfır kurulumda Grub2 Dosya Yönetici ve Grub4Dos dosyalarının en güncel dosyalarının kullanılması sağlandı.

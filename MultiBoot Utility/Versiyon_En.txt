@@ -1,5 +1,6 @@
-1.6.0.0
+1.7.0.0
 
 Change Log:
+# Bug fix (grubenv)
 # Grub2 File Manager for the latest up-to-date files are downloaded and installed from the internet.
 # The latest installation of Grub2 File Manager and Grub4Dos files is provided in zero installation.

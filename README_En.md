@@ -4,10 +4,10 @@
 ![alt MultiBoot Utility](https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/Goruntuler/MultiBoot_Utility_1_En.PNG)
 
 ## Download
-#### English (v1.6)
+#### English (v1.7)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20En.exe/download)
 
-#### Turkish (v1.6)
+#### Turkish (v1.7)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20Tr.exe/download)
 
 [Old Version](https://github.com/MultiBoot-Utility/MultiBoot-Utility/tree/master/MultiBoot%20Utility/Old)
@@ -47,6 +47,9 @@
 
 ## Change Log
 ```
+(v1.7)
+ # Bug fix (grubenv)
+ 
 (v1.6)
  # Grub2 File Manager for the latest up-to-date files are downloaded and installed from the internet.
  # The latest installation of Grub2 File Manager and Grub4Dos files is provided in zero installation.

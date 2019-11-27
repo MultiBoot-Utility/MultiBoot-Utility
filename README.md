@@ -4,10 +4,10 @@
 ![alt MultiBoot Utility](https://github.com/MultiBoot-Utility/MultiBoot-Utility/blob/master/MultiBoot%20Utility/Goruntuler/MultiBoot_Utility_1_Tr.PNG)
 
 ## Download
-#### Turkish (v1.6)
+#### Turkish (v1.7)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20Tr.exe/download)
 
-#### English (v1.6)
+#### English (v1.7)
 [![Download MultiBoot Utility](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/multiboot-utility/files/MultiBoot%20Utility%20En.exe/download)
 
 [Eski Versiyonlar](https://github.com/MultiBoot-Utility/MultiBoot-Utility/tree/master/MultiBoot%20Utility/Old)
@@ -47,6 +47,9 @@
 
 ## Yapılan Değişiklikler
 ```
+(v1.7)
+ # Hata düzeltmesi (grubenv)
+ 
 (v1.6)
  # Grub2 Dosya Yönetici için en son güncel dosyaların internetten indirilerek kurulumu sağlandı.
  # Sıfır kurulumda Grub2 Dosya Yönetici ve Grub4Dos dosyalarının en güncel dosyalarının kullanılması sağlandı.
